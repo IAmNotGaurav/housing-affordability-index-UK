@@ -48,6 +48,28 @@ This project analyses housing affordability across UK regions by combining house
 
 ---
 
+## Dataset Preview
+
+### UK House Price Index (HPI)
+![HPI](outputs/dataset_preview/HPI_Dataset.png)
+
+### HPI After Cleaning
+![HPI Clean](outputs/dataset_preview/HPI_After_Cleaning.png)
+
+### ASHE Earnings Dataset
+![ASHE](outputs/dataset_preview/ASHE_Dataset.png)
+
+### ASHE After Cleaning
+![ASHE Clean](outputs/dataset_preview/ASHE_After_Cleaning.png)
+
+### Merged Dataset
+![Merged](outputs/dataset_preview/HPI_ASHE_Merged.png)
+
+### Affordability Index Calculation
+![Calculation](outputs/dataset_preview/Affordability_Index_Calculation.png)
+
+---
+
 ## Key Insights
 - London and South East have the highest affordability pressure  
 - House prices are rising faster than earnings  
