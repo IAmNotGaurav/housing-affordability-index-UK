@@ -49,11 +49,11 @@ Annual earnings dataset filtered for median full-time income.
 ![ASHE](outputs/dataset_preview/ASHE_Dataset.png)
 
 ### ASHE After Cleaning
-Cleaned and structured earnings dataset.
+The cleaning process ensures that the earnings data is consistent, reliable, and directly comparable with housing price data.
 ![ASHE Clean](outputs/dataset_preview/ASHE_After_Cleaning.png)
 
 ### Merged Dataset
-Final dataset combining house prices and earnings.
+Combined house price data with earnings data to measure house prices across different regions and over time.
 ![Merged](outputs/dataset_preview/HPI_ASHE_Merged.png)
 
 ### Affordability Index Calculation
@@ -98,18 +98,6 @@ Compares how affordability has shifted over time across regions.
 - **Pandas & NumPy** for data manipulation  
 - **Matplotlib & Plotly** for visualisation  
 - **Jupyter Notebook / Google Colab** for analysis  
-
----
-
-## Project Structure
-
-housing-affordability-index-UK/
-│
-├── housing_affordability_analysis.ipynb
-├── README.md
-├── outputs/
-│ ├── charts/
-│ └── dataset_preview/
 
 ---
 
